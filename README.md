@@ -7,7 +7,7 @@ Cornell University STSCI 5999 Spring 2021 Project - GroIntellignence data predic
 Yunxi Kou - yk799\
 Sandra Lapinska - sl2974\
 Yanran Wei - yw2367\
-Zhenyuan Xu - zx289\
+Zhenyuan Xu - zx289
 
 ## Method
 
