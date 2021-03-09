@@ -4,15 +4,22 @@ Cornell University STSCI 5999 Spring 2021 Project - GroIntellignence data predic
 
 ## Members
 
-Yunxi Kou - yk799
-Sandra Lapinska - sl2974
-Yanran Wei - yw2367
-Zhenyuan Xu - zx289
+Yunxi Kou - yk799\
+Sandra Lapinska - sl2974\
+Yanran Wei - yw2367\
+Zhenyuan Xu - zx289\
 
 ## Method
 
 Time Series analysis
 
-## 3-9
+### Plan
+As the Yield is a yearly data while most of our dataset is in daliy or monthly, we\
+are doing a monthly average on all dail data.\
+The monthly -> yearly conversion will be committed later.
 
-Initial commit. please modify the dataset path to that of your own before use.
+## Progress
+
+### 3-9
+Initial commit. please modify the dataset path to that of your own before use.\
+Datasets are uploaded but may not include all data required in doc. Will be checked out later.
