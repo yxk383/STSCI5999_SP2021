@@ -33,3 +33,6 @@ library("tidyverse")
 #ggplot(rainfall_month)
 plot((rainfall_subset$Value[rainfall_subset$Region == "Canada"]), xaxt="n", type="o")
 #((rainfall_month$Value[rainfall_month$Region == "Canada"]), col = "red", xaxt="n", type="o")
+
+### Save dataset
+write.csv(rainfall_month,"D:\\E-Angel\\Documents\\RStudio\\STSCI5999\\STSCI5999_SP2021\\Precipitation Quantity - Rainfall - Canada_monthly.csv", row.names = FALSE)
